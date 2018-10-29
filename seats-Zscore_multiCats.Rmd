@@ -3,8 +3,8 @@ title: "Z-score, multi-labeled nodes"
 author: "H Qin"
 date: "10/29/2018"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r}
